@@ -185,7 +185,7 @@ p {
 }
 
 #home .home-content {
-    background: url(bg-home.jpg) no-repeat center center/cover;
+    background: url(./img/bg-home.jpg) no-repeat center center/cover;
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -885,6 +885,6 @@ p {
 
     #footer .copyright p,
     #home .navbar nav ul a {
-        font-size: 13px;
+        font-size: 12px;
     }
 }
